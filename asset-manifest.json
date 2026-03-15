@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beyondweb-h/fruitshop/static/css/main.9b3f3405.css",
+    "main.js": "/beyondweb-h/fruitshop/static/js/main.8ad8826c.js",
+    "static/js/453.cba865e1.chunk.js": "/beyondweb-h/fruitshop/static/js/453.cba865e1.chunk.js",
+    "index.html": "/beyondweb-h/fruitshop/index.html",
+    "main.9b3f3405.css.map": "/beyondweb-h/fruitshop/static/css/main.9b3f3405.css.map",
+    "main.8ad8826c.js.map": "/beyondweb-h/fruitshop/static/js/main.8ad8826c.js.map",
+    "453.cba865e1.chunk.js.map": "/beyondweb-h/fruitshop/static/js/453.cba865e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3f3405.css",
+    "static/js/main.8ad8826c.js"
+  ]
+}
